@@ -1,0 +1,32 @@
+# Archivos temporales y generados
+/Library/
+/Temp/
+/Obj/
+/Builds/
+/Build/
+/*.tmp
+*.log
+*.meta
+*.db
+*.asset
+
+# Archivos específicos del editor
+/Editor/
+/Documentation/
+/Packages/
+/ProjectSettings/
+
+# Otros archivos que no se necesitan en el control de versiones
+*.psd
+*.ai
+*.ttf
+*.mp3
+*.wav
+*.mov
+*.avi
+
+# Ignora archivos específicos (opcional)
+/Assets/MyCustomAsset/
+
+# Ignora carpetas específicas (opcional)
+/Assets/Plugins/ThirdParty/
